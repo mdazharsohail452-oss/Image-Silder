@@ -13,4 +13,4 @@ Smooth transition animations.
 Accessibility support with ARIA attributes and alt text for images.
 Easy to customize with CSS variables.
 Lightweight and dependency-free.
-website demo:https://5gxsd1c1-5500.inc1.devtunnels.ms/
+
