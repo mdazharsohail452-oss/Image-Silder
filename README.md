@@ -1,4 +1,4 @@
-# Image-Silder
+# image-Silder
 Image Slider
 An easy-to-use, fully responsive image slider/carousel component with smooth transition effects, customizable controls, and support for multiple input methods (touch, keyboard, mouse). Built with pure HTML, CSS, and JavaScript for minimal dependencies and maximum flexibility.
 
